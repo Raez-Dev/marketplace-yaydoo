@@ -1,4 +1,4 @@
-const endpoint = 'http://localhost:5000/api';
+const endpoint = 'https://api-marketplace-yaydoo.herokuapp.com:5000/api';
 
 let productEndpoints = {
   post: `${endpoint}/products`,

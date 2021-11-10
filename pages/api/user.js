@@ -1,4 +1,4 @@
-const endpoint = 'https://api-marketplace-yaydoo.herokuapp.com:5000/api';
+const endpoint = 'https://api-marketplace-yaydoo.herokuapp.com/api';
 
 const userEndpoints = {
   login: `${endpoint}/login`,
